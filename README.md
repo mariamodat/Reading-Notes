@@ -18,6 +18,6 @@
      _ Never ever give up 
      
      my goals are 
-    - inhance my performance 
-    - take a rest 
-    - give up 
+    * [x] inhance my performance 
+    * [ ] take a rest 
+    * [ ] give up 
