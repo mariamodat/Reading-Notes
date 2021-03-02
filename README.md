@@ -13,7 +13,7 @@
 
 
 
-    *you have to work until you will reach :+1:*
+    you have to work until you will reach :+1:
    
      _ Never ever give up 
      
