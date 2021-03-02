@@ -9,3 +9,13 @@
 2. dedicated 
 3. person who never give up 
 
+1. the srtuggle in life is real 
+
+   _ you have to work until you will reach :+1:
+   
+     _ Never ever give up 
+     
+     my goals are 
+    - [x] inhance my performance 
+    - [ ] take a rest 
+    - [ ] give up 
