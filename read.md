@@ -13,33 +13,13 @@
   ##### the codes that I used to style my HTML tags 
    <style type="text/css">
     
-    **header , figure , main , footer {display: block;}
-    **body {
-* color: #666666;
-* background-color: #f9f8f6;
-
-* background-image: url("images/dark-wood.jpg ");
-
-* background-position : center ;
-* font-family: Georgia , times, serif ;
-* line-height: 1.4em ;
-* margin: 0px ; }
+  
 
 
-**.wrapper {
-
-* width: 940px;
-* margin: 20px auto 20px auto;
-* border: 2px solid #000000;
-* background-color: #ffffff;}
 
 **h1 { 
 this is used to style the head 1 by specific properties
 
-* text-indent: -9999px;
-* width: 940px;
-* height: 130px;
-* margin: 0px;}
 
 
 
