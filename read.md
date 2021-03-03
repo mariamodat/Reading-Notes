@@ -18,12 +18,12 @@
 * color: #666666;
 * background-color: #f9f8f6;
 
-* background-image: url("images/dark-wood.jpg");
+* background-image: url("images/dark-wood.jpg ");
 
-* background-position: center;
-* font-family: Georgia, times, serif;
-* line-height: 1.4em;
-* margin: 0px;}
+* background-position : center ;
+* font-family: Georgia , times, serif ;
+* line-height: 1.4em ;
+* margin: 0px ; }
 
 
 **.wrapper {
@@ -41,12 +41,7 @@ this is used to style the head 1 by specific properties
 * height: 130px;
 * margin: 0px;}
 
-##contents 
 
-| Section 1       | what does HTML stands for|
- -----------------|--------------------------
-| Section 2       | what does CSS stands for |
- -----------------|--------------------------
 
 
 
