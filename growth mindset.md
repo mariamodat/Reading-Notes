@@ -1,6 +1,6 @@
 # growthmind 
 ## Growth mindset : **develop** through *perseverane* and *effort* 
-###### about the Growth mindset :  *people believe that their most basic abilities can be developed through dedication and hard work—brains and talent are just the starting point. This view creates a love of learning and a resilience that is essential for great accomplishment* 
+### about the Growth mindset :  *people believe that their most basic abilities can be developed through dedication and hard work—brains and talent are just the starting point. This view creates a love of learning and a resilience that is essential for great accomplishment* 
 ![mindset](https://www.nexus-education.com/wp-content/uploads/2019/06/continuum.png)
 # about me 
 ## Mariam AlOwdat 
@@ -22,3 +22,11 @@
     - [x] inhance my performance 
     - [ ] take a rest 
     - [ ] give up 
+# table of content 
+
+ | section | content |
+ |-------|-------|
+ | section 1 | Growth Mindset |
+ | section 2 | about Me  | 
+ | section 3 | what are my skills | 
+ | section 4 | MY Goals | 
