@@ -22,7 +22,7 @@ this is used to style the head 1 by specific properties
  # table of content 
  | section | content |
  |-------|-------|
- | section 1 | what does HTML stands for |
- | section 2 | about HTML | 
- | section 3 | what does CSS stands for | 
- | section 4 | about CSS | 
+ | section 1 | https://mariamodat.github.io/Reading-Notes/ |
+ | section 2 | https://mariamodat.github.io/Makeup-/ | 
+ | section 3 | https://mariamodat.github.io/github/ | 
+ | section 4 | https://mariamodat.github.io/JavaScript2/ | 
