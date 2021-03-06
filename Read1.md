@@ -14,3 +14,9 @@
 **![name](link of the image)** 
 ##### for example lets try adding this photo 
 ![mariam](https://miro.medium.com/max/4000/1*J8O2xd9ZqxWr2x6EP4MHmg.png)
+
+# table of content
+| content | what I've learned |
+|:--------|:------------------|
+| HTML and CSS | [about html](https://mariamodat.github.io/Reading-Notes/Read2) |
+| JavaScript | [about JavaScript](https://mariamodat.github.io/JavaScript2/) |
