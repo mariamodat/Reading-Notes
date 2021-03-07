@@ -17,6 +17,7 @@
 
 # table of content
 | content | what I've learned |
-|:--------|:------------------|
-| HTML and CSS | [about html](https://mariamodat.github.io/Reading-Notes/Read2) |
-| JavaScript | [about JavaScript](https://mariamodat.github.io/JavaScript2/) |
+|--------|------------------|
+| about html and css | [Read 02](https://mariamodat.github.io/Reading-Notes/Read2) |
+| what is JavaScript | [about JavaScript](https://mariamodat.github.io/Reading-Notes/Read004) |
+| loops and operators using JS | [loopandoperators](https://mariamodat.github.io/Reading-Notes/Read005)
