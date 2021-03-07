@@ -32,11 +32,11 @@ such as :
 
 |Type of loop | Role |
 |:------------|:-----|
-| For | Makes the loop run for a specific time |
-| While | the code will run into a loop for as long as the condition is T |
-| Do while | it will run for at least once even if the condition evaluates to F |
+| **For** | Makes the loop run for a specific time |
+| **While** | the code will run into a loop for as long as the condition is T |
+| **Do while** | it will run for at least *ONCE* even if the condition evaluates to **F** |
 
-## lets get started with For loop structure :
+## lets get started with *For* loop structure :
  Ex : for ( var i =0  ; i < 10 ; i ++  )
  1. var i = 0 : create the Value and start it with 0 
  2. i < 10 : the condition 
